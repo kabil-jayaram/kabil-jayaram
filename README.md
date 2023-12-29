@@ -1,4 +1,5 @@
 ### Hi there 👋
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabil-jayaram&layout=compact&theme=blue-green)
 
 <!--
 **kabil-jayaram/kabil-jayaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
