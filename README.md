@@ -1,4 +1,4 @@
-### Hi there 👋 
+# Hi there 👋 
 
 # I am Kabilan Jayaraman
 
@@ -8,7 +8,7 @@
 
 I'm a passionate developer driven by curiosity and a love for crafting innovative solutions. I'm always eager to learn new technologies and apply my skills to create meaningful impact.
 
-##  Languages
+##  Languages Used
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabil-jayaram&layout=compact&theme=radical)
 
