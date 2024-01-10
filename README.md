@@ -2,7 +2,7 @@
 
 # I am Kabilan Jayaraman
 
-**Software Developer | Tech Enthusiast | Avid Space Enthusiast**
+**Software Developer | Tech Enthusiast**
 
 ##  About Me
 
