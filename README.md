@@ -20,6 +20,9 @@ I'm a passionate developer driven by curiosity and a love for crafting innovativ
 
 ![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kabil_jayaram&layout=compact&theme=blue-green)
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
 <!--
 **kabil-jayaram/kabil-jayaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
