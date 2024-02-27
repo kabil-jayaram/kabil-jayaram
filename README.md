@@ -18,7 +18,7 @@ I'm a passionate developer driven by curiosity and a love for crafting innovativ
 
 ##  Coding Time
 
-![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kabil_jayaram&layout=compact&theme=blue-green&langs_count=4)
+![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kabil_jayaram&layout=compact&theme=blue-green)
 
 
 <!--
