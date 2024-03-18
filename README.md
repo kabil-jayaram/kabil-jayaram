@@ -12,10 +12,6 @@ I'm a passionate developer driven by curiosity and a love for crafting innovativ
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabil-jayaram&layout=compact&theme=radical)
 
-##  Activity & Consistency
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kabil-jayaram&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ##  Coding Time
 
 ![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kabil_jayaram&layout=compact&theme=blue-green)
