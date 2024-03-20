@@ -23,7 +23,7 @@ I'm a passionate **Software Developer** and **Tech Enthusiast**, driven by curio
 
 ## 📫 How to reach me
 
-![Visits Badge](https://badges.pufler.dev/visits/kabil-jayaram/kabil-jayaram)](https:braydoncoyer.dev)
+![Visits Badge](https://badges.pufler.dev/visits/kabil-jayaram/kabil-jayaram)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/KabilJayaram)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kabil-jayaram)
 
