@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Kabilan Jayaraman
 
-![Profile views](https://gpvc.arturio.dev/kabil-jayaram)
-
 ## 🚀 About Me
 
 I'm a passionate **Software Developer** and **Tech Enthusiast**, driven by curiosity and a love for crafting innovative solutions. I'm always eager to learn new technologies and apply my skills to create meaningful impact.
