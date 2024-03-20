@@ -1,33 +1,29 @@
-# Hi there 👋 
+# Hi there 👋 I'm Kabilan Jayaraman
 
-# I am Kabilan Jayaraman
+![Profile views](https://gpvc.arturio.dev/kabil-jayaram)
 
-**Software Developer | Tech Enthusiast**
+## 🚀 About Me
 
-##  About Me
+I'm a passionate **Software Developer** and **Tech Enthusiast**, driven by curiosity and a love for crafting innovative solutions. I'm always eager to learn new technologies and apply my skills to create meaningful impact.
 
-I'm a passionate developer driven by curiosity and a love for crafting innovative solutions. I'm always eager to learn new technologies and apply my skills to create meaningful impact.
+## 🛠️ Languages I Use
 
-##  Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabil-jayaram&layout=compact&theme=radical)
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabil-jayaram&layout=compact&theme=radical)
+## 📈 Coding Time
 
-##  Coding Time
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=kabil_jayaram&layout=compact&theme=blue-green)
 
-![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kabil_jayaram&layout=compact&theme=blue-green)
+## 🔥 Streaks
 
+![Streaks](https://github-readme-streak-stats.herokuapp.com?user=kabil-jayaram&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)
 
-<!--
-**kabil-jayaram/kabil-jayaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 GitHub Trophy
 
-Here are some ideas to get you started:
+![Trophy](https://github-profile-trophy.vercel.app/?username=kabil-jayaram&theme=discord)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/kabil-jayaram)
+- [Twitter](https://twitter.com/KabilJayaram)
+- [Email](mailto:kabil.jayaram@gmail.com)
